@@ -1,3 +1,4 @@
+package edu.leticia.iniciais;
 public class Carro {
 
     // atributos dentro da classe para criar múltiplos objetos
